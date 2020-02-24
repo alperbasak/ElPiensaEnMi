@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">El Piensa En Mi?</string>
+    <string name="thinking">ESTA PENSENDO EN MI</string>
+    <string name="notThinking">NO, PERDONA ME</string>
+    <string name="loading">Obtener información en progreso…</string>
+</resources>
